@@ -1,0 +1,3 @@
+com\inetbankingv4\testcase\TC_001_LoginPageTest.class
+com\inetbankingv4\testcase\TC_002_ManagerPageTest.class
+com\inetbankingv4\testcase\TC_003_AddCustomerPageTest.class

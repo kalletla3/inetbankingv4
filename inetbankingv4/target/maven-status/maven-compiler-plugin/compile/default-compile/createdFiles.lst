@@ -1,0 +1,6 @@
+com\inetbankingv4\qa\pages\LoginPage.class
+com\inetbankingv4\utility\Reporting.class
+rough\testingclass.class
+com\inetbankingv4\qa\pages\AddNewCustomerPage.class
+com\inetbankingv4\qa\pages\ManagerPage.class
+com\inetbankingv4\testbase\BaseClass.class

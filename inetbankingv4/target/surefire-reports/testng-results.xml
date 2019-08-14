@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="61651" started-at="2019-08-13T22:13:59Z" finished-at="2019-08-13T22:15:01Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="61651" started-at="2019-08-13T22:13:59Z" finished-at="2019-08-13T22:15:01Z">
+      <class name="com.inetbankingv4.testcase.TC_001_LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.inetbankingv4.testcase.TC_001_LoginPageTest@39fb3ab6]" name="setUp" is-config="true" duration-ms="10626" started-at="2019-08-13T22:14:00Z" finished-at="2019-08-13T22:14:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="isLinkPresentTest()[pri:1, instance:com.inetbankingv4.testcase.TC_001_LoginPageTest@39fb3ab6]" name="isLinkPresentTest" duration-ms="959" started-at="2019-08-13T22:14:10Z" finished-at="2019-08-13T22:14:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isLinkPresentTest -->
+        <test-method status="PASS" signature="isLogoPresent()[pri:2, instance:com.inetbankingv4.testcase.TC_001_LoginPageTest@39fb3ab6]" name="isLogoPresent" duration-ms="43" started-at="2019-08-13T22:14:11Z" finished-at="2019-08-13T22:14:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isLogoPresent -->
+        <test-method status="PASS" signature="LoginTest()[pri:3, instance:com.inetbankingv4.testcase.TC_001_LoginPageTest@39fb3ab6]" name="LoginTest" duration-ms="9772" started-at="2019-08-13T22:14:11Z" finished-at="2019-08-13T22:14:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.inetbankingv4.testcase.TC_001_LoginPageTest@39fb3ab6]" name="tearDown" is-config="true" duration-ms="712" started-at="2019-08-13T22:14:21Z" finished-at="2019-08-13T22:14:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.inetbankingv4.testcase.TC_001_LoginPageTest -->
+      <class name="com.inetbankingv4.testcase.TC_002_ManagerPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.inetbankingv4.testcase.TC_002_ManagerPageTest@6276ae34]" name="setUp" is-config="true" duration-ms="12801" started-at="2019-08-13T22:14:22Z" finished-at="2019-08-13T22:14:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="IsMarqueeTextPresentTest()[pri:4, instance:com.inetbankingv4.testcase.TC_002_ManagerPageTest@6276ae34]" name="IsMarqueeTextPresentTest" duration-ms="157" started-at="2019-08-13T22:14:35Z" finished-at="2019-08-13T22:14:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IsMarqueeTextPresentTest -->
+        <test-method status="PASS" signature="addNewCustomerLinkTest()[pri:5, instance:com.inetbankingv4.testcase.TC_002_ManagerPageTest@6276ae34]" name="addNewCustomerLinkTest" duration-ms="694" started-at="2019-08-13T22:14:35Z" finished-at="2019-08-13T22:14:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomerLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.inetbankingv4.testcase.TC_002_ManagerPageTest@6276ae34]" name="tearDown" is-config="true" duration-ms="759" started-at="2019-08-13T22:14:35Z" finished-at="2019-08-13T22:14:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.inetbankingv4.testcase.TC_002_ManagerPageTest -->
+      <class name="com.inetbankingv4.testcase.TC_003_AddCustomerPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.inetbankingv4.testcase.TC_003_AddCustomerPageTest@7946e1f4]" name="setUp" is-config="true" duration-ms="13173" started-at="2019-08-13T22:14:36Z" finished-at="2019-08-13T22:14:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addCustInfoTest()[pri:6, instance:com.inetbankingv4.testcase.TC_003_AddCustomerPageTest@7946e1f4]" name="addCustInfoTest" duration-ms="10409" started-at="2019-08-13T22:14:49Z" finished-at="2019-08-13T22:15:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustInfoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.inetbankingv4.testcase.TC_003_AddCustomerPageTest@7946e1f4]" name="tearDown" is-config="true" duration-ms="717" started-at="2019-08-13T22:15:00Z" finished-at="2019-08-13T22:15:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.inetbankingv4.testcase.TC_003_AddCustomerPageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

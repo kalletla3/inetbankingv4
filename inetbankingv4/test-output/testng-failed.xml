@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.inetbankingv4.utility.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="inetbankingv4 App Test(failed)">
+    <classes>
+      <class name="com.inetbankingv4.testcase.TC_001_LoginPageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="LoginTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.inetbankingv4.testcase.TC_001_LoginPageTest -->
+    </classes>
+  </test> <!-- inetbankingv4 App Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
